@@ -39,7 +39,7 @@
 - [Coding fantasy](https://codingfantasy.com/)
 
 
-## Librerias
+## Librerias javascript
 -[Autoanimate](https://auto-animate.formkit.com/)
 
 ## Graficos
