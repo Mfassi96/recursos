@@ -35,3 +35,7 @@
 |  | Autoanimate | [https://auto-animate.formkit.com/](https://auto-animate.formkit.com/) |
 | **Gráficos** | Herramientas para la creación de gráficos y visualizaciones. |  |
 |  | ApexCharts | [https://apexcharts.com/](https://apexcharts.com/) |
+| **Challenges** | Sitios web con desafios en diferentes tecnologias. |  |
+|  | Devchallenges | [https://devchallenges.io/](https://devchallenges.io/) |
+
+
