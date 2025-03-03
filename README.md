@@ -18,6 +18,11 @@
 | Fake Store | API REST para simular una tienda en línea con productos falsos. | [https://fakestoreapi.com/](https://fakestoreapi.com/) |
 | Mapbox | API para mapas y geolocalización con diversas funcionalidades. | [https://www.mapbox.com/](https://www.mapbox.com/) |
 | Random User | API para generar datos de usuarios aleatorios para pruebas y maquetas. | [https://randomuser.me/](https://randomuser.me/) |
+| The Movie DB|API con informacion de peliculas|[https://www.themoviedb.org/](https://www.themoviedb.org/)|
+|PokeAPI|API POKEMON|[https://pokeapi.co/](https://pokeapi.co/)|
+|MARVEL DB|Personajes de Marvel|[https://developer.marvel.com/](https://developer.marvel.com/)|
+|Open weather|API para obtener datos del clima|[https://openweathermap.org/](https://openweathermap.org/)
+|RickanMorthy API|API de la serie Rick and Morthy|[https://rickandmortyapi.com/](https://rickandmortyapi.com/)|
 
 ## Bases de Datos
 
@@ -64,3 +69,12 @@
 | Recurso | Descripción | Enlace |
 |---|---|---|
 | Devchallenges | Plataforma con desafíos de desarrollo web para practicar habilidades. | [https://devchallenges.io/](https://devchallenges.io/) |
+
+## Iconos
+
+| Recurso | Descripción | Enlace |
+|---|---|---|
+| SVGrepo | Pagina con iconos svg | [https://www.svgrepo.com/](https://www.svgrepo.com/) |
+| Yesicon | Iconos minimalistas | [https://yesicon.app/?lang=es](https://yesicon.app/?lang=es)|
+| Tabler Icons| |[https://tablericons.com/](https://tablericons.com/)|
+| SVGator| Pagina web para crear iconos y animaciones| [https://www.svgator.com/](https://www.svgator.com/)|
