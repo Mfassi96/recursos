@@ -52,11 +52,15 @@
 | Cheatsheets | Colección de hojas de referencia para diversas tecnologías. | [https://cheatsheets.zip/index.html](https://cheatsheets.zip/index.html) |
 | Coding fantasy | Juegos interactivos para aprender conceptos de programación. | [https://codingfantasy.com/](https://codingfantasy.com/) |
 
-## Librerías JavaScript
+## Librerías
 
 | Recurso | Descripción | Enlace |
 |---|---|---|
 | Autoanimate | Biblioteca para crear animaciones fluidas entre cambios en el DOM. | [https://auto-animate.formkit.com/](https://auto-animate.formkit.com/) |
+|Bootstrap|Biblioteca de componentes para sitios web|[https://getbootstrap.com/](https://getbootstrap.com/)|
+|Boostwatch|temas personalizados para bootatrap|[https://bootswatch.com/](https://bootswatch.com/)|
+|PSoneCss|Biblioteca con los estilos de PlayStation1|[https://micah5.github.io/PSone.css/](https://micah5.github.io/PSone.css/)|
+|NessCss|Biblioteca con estilos de la consola NES|[https://nostalgic-css.github.io/NES.css/](https://nostalgic-css.github.io/NES.css/)|
 
 ## Gráficos
 
@@ -74,7 +78,7 @@
 
 | Recurso | Descripción | Enlace |
 |---|---|---|
-| SVGrepo | Pagina con iconos svg | [https://www.svgrepo.com/](https://www.svgrepo.com/) |
+| SVGrepo | Pagina con iconos svg | [https://www.svgrepo.com/](https://www.svgrepo.com/)|
 | Yesicon | Iconos minimalistas | [https://yesicon.app/?lang=es](https://yesicon.app/?lang=es)|
 | Tabler Icons| |[https://tablericons.com/](https://tablericons.com/)|
 | SVGator| Pagina web para crear iconos y animaciones| [https://www.svgator.com/](https://www.svgator.com/)|
